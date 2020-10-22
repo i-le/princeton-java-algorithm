@@ -1,2 +1,4 @@
 # princeton-java-algorithms
- Coursera courses offered by Princeton University Computer Science: Java Programming with a Purpose + Algorithm1
+ Coursera courses offered by Princeton University Computer Science: 
+ - Java Programming with a Purpose
+ - Algorithm1

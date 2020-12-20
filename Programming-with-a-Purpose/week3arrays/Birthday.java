@@ -5,7 +5,6 @@ public class Birthday {
         int n = Integer.parseInt(args[0]);
         int trials = Integer.parseInt(args[1]);
         int r;
-
         int[] count = new int[100];
 
         // System.out.println("stop = " + stop);

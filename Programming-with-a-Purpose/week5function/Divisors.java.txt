@@ -1,6 +1,6 @@
 public class Divisors {
 
-    
+    // return this from a to b
     public static int gcd(int a, int b) {
         if (a == 0 && b == 0) {
             return 0;

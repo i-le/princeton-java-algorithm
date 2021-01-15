@@ -55,5 +55,7 @@ public class Divisors {
         StdOut.println("areRelativelyPrime(" + x + ", " + y + ") = " + areRelativelyPrime(x, y));
         StdOut.println("totient(" + x + ") = " + totient(x));
         StdOut.println("totient(" + y + ") = " + totient(y));
+
+
     }
 }

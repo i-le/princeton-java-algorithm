@@ -53,7 +53,6 @@ public class ActivationFunction {
         }
         else {
 
-
             return (softsign);
         }
 

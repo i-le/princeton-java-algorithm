@@ -14,9 +14,9 @@ public class DiscreteDistribution {
 
         for (int i = 1; i < n; i++) {
             sum += Integer.parseInt(args[i]);
-            //System.out.println(args[i]);
+            System.out.println(args[i]);
             si[i] = sum;
-            //System.out.println(i + "." + args[i] + "." + si[i]);
+            System.out.println(i + "." + args[i] + "." + si[i]);
 
         }
         //System.out.println(si[0] + " " + si[1] + " " + si[2] + " " + si[6]);jav
